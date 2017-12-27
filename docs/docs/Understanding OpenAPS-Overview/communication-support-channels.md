@@ -31,7 +31,7 @@ Gitter has a mobile app which works great for posting text, but does not allow f
 Using the desktop application, you can simply drag and drop the file into the Gitter chat window.  The file will upload and then display in the chat thread after a short period of time to upload.
 *************
 
-Posting copy-paste code from your rig is also another valuable activity for troubleshooting.  To post a single line of information, you can use the single-backtick-quote that is found on the key to the left of the number 1 key on the keyboard.  (hint: it is under the ~ on the same key).  You can also long-press the single quote key on your iPhone keypad to bring up the single-backtick-quote that will work in Gitter.  If you start and stop a portion of your text with those single quotes, it will `look like this`.
+Posting copy-paste code from your rig is also another valuable activity for troubleshooting.  To post a single line of information, you can use the single-backtick-quote (`) that is found on the key to the left of the number 1 key on the keyboard.  (hint: it is under the ~ on the same key).  You can also long-press the single quote key on your iPhone keypad to bring up the single-backtick-quote that will work in Gitter.  If you start and stop a portion of your text with those single quotes, it will `look like this`.
 
 Posting multiple lines of copy-paste from your rig will also sometimes be needed.  You can do that by:
 
