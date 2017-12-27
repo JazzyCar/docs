@@ -35,11 +35,11 @@ Posting copy-paste code from your rig is also another valuable activity for trou
 
 Posting multiple lines of copy-paste from your rig will also sometimes be needed.  You can do that by:
 
-* start a single line of 3 single quotes (the same one we used in the example above)
+* start a single line of 3 single-backtick-quotes (the same one we used in the example above)
 * press `control-enter` to get a new line started
 * paste the lines of code that you want to post
 * press `control-enter` again to get another new line
-* enter 3 single quotes to end the section
+* enter 3 single-backtick-quotes to end the section
 
 The copy-pasted lines should have 3 backticks on the line above and the line below.  The example below shows, on the bottom, how the formatted text yielded the black box of text in Gitter.  Using this format helps troubleshooters read your information easier than unformatted copy and paste.
 
