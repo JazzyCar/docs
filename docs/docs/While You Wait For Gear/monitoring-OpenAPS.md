@@ -100,7 +100,7 @@ See below for different ways to access your rig:
 
 ![Mac Screen message for busy port](../Images/access_mac_sorry.png)
 
-* If instead you see a message at the bottom of the screen that says "Cannot exec '/dev/tty.usbserial-*': No such file or directory", double check that you have your rig and computer connected via the rig's UART port.  Using the OTG port will cause this error message.  Or typos in the screen command will have same result.  Double check your spelling, or better yet...use copy and paste whenever possible.
+* If instead you see a message at the bottom of the screen that says "Cannot exec '/dev/tty.usbserial-*': No such file or directory", double check that you have your rig and computer connected via the rig's UART port.  Using the OTG port will cause this error message.  Or typos in the screen command will have same result.  Double check your spelling, or better yet...use copy and paste whenever possible. (Note: The ports are labelled "UART" and "OTG" on the opposite side of the green Edison board from the side where you plug in the cables.)
 
 ![Mac Screen message for OTG port](../Images/access_mac_no_exec.png)
 
