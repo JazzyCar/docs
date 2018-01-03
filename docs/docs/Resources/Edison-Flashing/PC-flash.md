@@ -137,6 +137,8 @@ sed -r -i"" "s/localhost( jubilinux)?$/localhost $myedisonhostname/" /etc/hosts
 
 ### **1.5  Set up Wifi**
 
+(Note: You can save yourself time and skp the remaining steps on this page by returning here to set up your wifi: https://openaps.readthedocs.io/en/latest/docs/Build%20Your%20Rig/edison-install.html)
+
 Enter `vi /etc/network/interfaces`
 
 Type “i” to enter INSERT mode for editing on the file.
